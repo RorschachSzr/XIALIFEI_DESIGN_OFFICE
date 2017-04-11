@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Merriweather Sans'), local('MerriweatherSans-Regular'), url(http://fonts.gstatic.com/s/merriweathersans/v8/AKu1CjQ4qnV8MUltkAX3sMoBJSyBiVuloIc8IXLz46o.woff) format('woff');
+}
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Merriweather Sans Bold'), local('MerriweatherSans-Bold'), url(http://fonts.gstatic.com/s/merriweathersans/v8/6LmGj5dOJopQKEkt88GowaILZ3_VFR4y34zupljc1bH3rGVtsTkPsbDajuO5ueQw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Merriweather Sans Italic'), local('MerriweatherSans-Italic'), url(http://fonts.gstatic.com/s/merriweathersans/v8/3Mz4hOHzs2npRMG3B1ascbBr0pHejMAHEYQxdlZpOYc.woff) format('woff');
+}
+@font-face {
+  font-family: 'Merriweather Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Merriweather Sans Bold Italic'), local('MerriweatherSans-BoldItalic'), url(http://fonts.gstatic.com/s/merriweathersans/v8/nAqt4hiqwq3tzCecpgPmVXqmoHPhRtDxMEWFjaribELr7w4p9aSvGirXi6XmeXNA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Volkhov';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Volkhov Regular'), local('Volkhov-Regular'), url(http://fonts.gstatic.com/s/volkhov/v8/ZOhdCEhWNFZFzbnI0HB96QLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
+@font-face {
+  font-family: 'Volkhov';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Volkhov Bold'), local('Volkhov-Bold'), url(http://fonts.gstatic.com/s/volkhov/v8/bfl1JD3mxnmq4NrdCJOHxb3hpw3pgy2gAi-Ip7WPMi0.woff) format('woff');
+}
+@font-face {
+  font-family: 'Volkhov';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Volkhov Italic'), local('Volkhov-Italic'), url(http://fonts.gstatic.com/s/volkhov/v8/Y_Jmwi-iHxNj27PG4ILsdbO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+@font-face {
+  font-family: 'Volkhov';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Volkhov Bold Italic'), local('Volkhov-BoldItalic'), url(http://fonts.gstatic.com/s/volkhov/v8/W6oG0QDDjCgj0gmsHE520KRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
