@@ -2,7 +2,6 @@ package spring.boot.rest.common.validator;
 
 import javax.validation.Constraint;
 import javax.validation.Payload;
-import java.lang.annotation.*;
 
 
 
