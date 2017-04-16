@@ -1,10 +1,10 @@
 package spring.boot.rest.base_api.service;
 
 import org.springframework.stereotype.Service;
-import spring.boot.rest.common.model.DataResult;
-import spring.boot.rest.common.service.IService;
 import spring.boot.rest.base_api.domain.UserData;
 import spring.boot.rest.base_api.entity.User;
+import spring.boot.rest.common.model.DataResult;
+import spring.boot.rest.common.service.IService;
 
 import java.util.List;
 

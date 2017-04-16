@@ -1,7 +1,6 @@
 package spring.boot.rest.common.validator;
 
 import javax.validation.*;
-import java.util.*;
 
 /**
  * {type your description }

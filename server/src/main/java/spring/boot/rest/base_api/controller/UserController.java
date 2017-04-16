@@ -2,9 +2,9 @@ package spring.boot.rest.base_api.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import spring.boot.rest.common.model.DataResult;
 import spring.boot.rest.base_api.domain.UserData;
 import spring.boot.rest.base_api.service.UserService;
+import spring.boot.rest.common.model.DataResult;
 
 import java.util.List;
 

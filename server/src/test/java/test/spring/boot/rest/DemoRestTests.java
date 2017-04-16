@@ -10,8 +10,8 @@ import org.springframework.test.annotation.DirtiesContext;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.util.StreamUtils;
 import org.springframework.web.client.RestTemplate;
-import spring.boot.rest.common.model.DataResult;
 import spring.boot.rest.base_api.main.SpringBootWebApplication;
+import spring.boot.rest.common.model.DataResult;
 
 import java.io.ByteArrayInputStream;
 import java.nio.charset.Charset;
